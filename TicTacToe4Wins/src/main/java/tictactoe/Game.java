@@ -1,7 +1,6 @@
-package main.java.tictactoe.controller;
+package main.java.tictactoe;
 
-import main.java.tictactoe.model.Enum.ChipColor;
-import main.java.tictactoe.model.Field;
+import main.java.tictactoe.Enum.ChipColor;
 
 public class Game {
 

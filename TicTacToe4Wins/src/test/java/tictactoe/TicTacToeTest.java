@@ -1,14 +1,15 @@
-package test.java.tictactoe.test;
+package test.java.tictactoe;
 
 import static org.junit.Assert.*;
 
 
-import main.java.tictactoe.model.Field;
-import main.java.tictactoe.model.Enum.ChipColor;
+
+import main.java.tictactoe.Field;
+import main.java.tictactoe.Game;
+import main.java.tictactoe.Enum.ChipColor;
 
 import org.junit.Test;
 
-import main.java.tictactoe.controller.Game;
 
 public class TicTacToeTest {
 

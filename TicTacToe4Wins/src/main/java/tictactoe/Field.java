@@ -1,6 +1,7 @@
-package main.java.tictactoe.model;
+package main.java.tictactoe;
 
-import main.java.tictactoe.model.Enum.ChipColor;
+import main.java.tictactoe.Enum.ChipColor;
+
 
 public class Field {
 
