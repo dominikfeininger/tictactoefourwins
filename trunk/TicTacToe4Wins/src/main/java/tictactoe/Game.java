@@ -3,8 +3,10 @@ package main.java.tictactoe;
 import main.java.tictactoe.Enum.ChipColor;
 
 public class Game {
+	
 
- public static ChipColor check(Field field) {
+
+	public static ChipColor check(Field field) {
 
 		if (checkColumn(field) != ChipColor.NONE)
 			return checkColumn(field);
