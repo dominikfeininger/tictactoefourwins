@@ -11,7 +11,7 @@ public class Field {
 	private static final int X_4_WINS = 7;
 	private static final int Y_4_WINS = 6;
 	
-	private static final int X_TICTACTOE= 3;
+	private static final int X_TICTACTOE = 3;
 	private static final int Y_TICTACTOE = 3;
 	
 	private Enum.ChipColor field[][];
